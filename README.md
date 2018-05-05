@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension pack "editor-extension-pack"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Editor Extension Pack
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A collection of Visual Studio Code extensions to customize and add functionalities to your editor.
 
-**Enjoy!**
+
+| Extension | Latest Release | Rating | Installs |
+|-----------|----------------|--------|----------|
+| [Material Theme](https://github.com/equinusocio/vsc-material-theme) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/Equinusocio.vsc-material-theme.svg) | ![Rating](https://vsmarketplacebadge.apphb.com/rating-short/Equinusocio.vsc-material-theme.svg) | ![Installs](https://vsmarketplacebadge.apphb.com/installs/Equinusocio.vsc-material-theme.svg) |
+| [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) | ![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/sleistner.vscode-fileutils.svg) | ![Rating](https://vsmarketplacebadge.apphb.com/rating-short/sleistner.vscode-fileutils.svg) | ![Installs](https://vsmarketplacebadge.apphb.com/installs/sleistner.vscode-fileutils.svg)
