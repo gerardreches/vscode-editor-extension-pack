@@ -1,0 +1,17 @@
+{
+    "name": "editor-extension-pack",
+    "displayName": "Editor Extension Pack",
+    "description": "A collection of Visual Studio Code extensions for the editor.",
+    "version": "0.0.1",
+    "publisher": "gerardreches",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "Equinusocio.vsc-material-theme", 
+        "sleistner.vscode-fileutils"
+    ]
+}
